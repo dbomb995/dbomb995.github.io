@@ -19,4 +19,5 @@ My artifact for this enhancement was my final Project from CS260 Data Structures
 
 DATABASES
 This project came from CS340 Client Server Development It was the final project for that course. I included this project into my final portfolio because I think that it showcases my ability to programmatically interact with databases. The Artifact was improved by my implementation of an HTML/CSS/JS user interface for performing CRUD operations on the database. The user interface consists of A Dropdown box for users to choose which operation to perform, and a text box to input their query. I performed all planned enhancements on this artifact. 
+
 [Here’s A link to my DataBase Project] https://github.com/dbomb995/dbomb995.github.io/tree/master/UpdatedDataBase
